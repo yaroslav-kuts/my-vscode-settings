@@ -1,0 +1,22 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.packageManager": "yarn",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "files.autoSave": "onFocusChange",
+    "editor.gotoLocation.multiple": "goto",
+    "editor.minimap.showSlider": "always",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "breadcrumbs.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "vim.handleKeys": {
+        "<C-c>": false,
+        "<C-v>": false,
+        "<C-x>": false,
+        "<C-a>": false,
+        "<C-z>": false,
+        "<C-f>": false
+    }
+}
