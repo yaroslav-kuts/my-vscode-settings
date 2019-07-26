@@ -11,15 +11,5 @@
     "files.trimTrailingWhitespace": true,
     "breadcrumbs.enabled": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "vim.handleKeys": {
-        "<C-c>": false,
-        "<C-v>": false,
-        "<C-x>": false,
-        "<C-a>": false,
-        "<C-z>": false,
-        "<C-f>": false,
-        "<C-e>": false,
-        "<C-w>": false,
-        "<C-h>": false,
-    }
+    "vim.useCtrlKeys": false,
 }
